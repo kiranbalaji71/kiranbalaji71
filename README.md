@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👋 Hi, I'm Kiran Balaji  
 
-<!--
-**kiranbalaji71/kiranbalaji71** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Software Engineer | Full-Stack Developer | Tech Enthusiast**  
 
-Here are some ideas to get you started:
+🚀 I love building scalable apps, automating workflows, and working with modern web technologies.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🌟 About Me
+- ⚡ Skilled in **React, Node.js, Express**
+- 📚 Love learning new things & sharing knowledge
+
+---
+
+## 🛠️ Tech Stack
+**Frontend:** React, Next.js, Redux, SCSS, Tailwind, Ant Design  
+**Backend:** Node.js, Express, Django, Java Spring Boot  
+**Database:** MySQL, PostgreSQL, MongoDB  
+**DevOps & Tools:** Docker, Git, Bitbucket, AWS  
+
+---
+
+## 📊 GitHub Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=kiranbalaji71&show_icons=true&theme=tokyonight)
+
+---
+
+## 🌐 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/kiran-balaji)  
+[![Twitter](https://img.shields.io/badge/Twitter-black?style=flat&logo=x&logoColor=white)](https://x.com/KiranBalaj197) 
+
