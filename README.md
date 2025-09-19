@@ -13,10 +13,10 @@
 ---
 
 ## 🛠️ Tech Stack
-**Frontend:** React, Next.js, Redux, SCSS, Tailwind, Ant Design  
-**Backend:** Node.js, Express, Django, Java Spring Boot  
-**Database:** MySQL, PostgreSQL, MongoDB  
-**DevOps & Tools:** Docker, Git, Bitbucket, AWS  
+**Frontend:** React, Next.js, Redux, SCSS, Tailwind  
+**Backend:** Node.js, Express  
+**Database:** MySQL, MongoDB  
+**DevOps & Tools:** Docker, Git, Bitbucket 
 
 ---
 
